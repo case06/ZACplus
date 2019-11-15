@@ -64,7 +64,7 @@ contact:
 contributors:                              # recommended
   - name: [Achmed, Eckhardt, Isabel, Hans, Thomas, Jens, Victoria und viele mehr]                  # text
     affiliation: [OSEG, Revoneer]                   # text
-    email: [leckmich]                         # email address
+    email: [value]                         # email address
 
 image: [https://wiki.opensourceecology.de/images/c/c1/ZACplus_Proto1.jpg]                             # recommended | absolute or relative path
 

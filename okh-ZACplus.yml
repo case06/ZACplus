@@ -23,17 +23,19 @@ manifest-language: DE-Western-Europe
 
 documentation-language: DE-Western-Europe 
 
-manifest-is-translation:  
-  title: value                           # text | Title of the original
-  manifest: value                        # URL - Absolute path | OKH manifest location
-  web: value                             # URL - Absolute path | web presence location
-  lang: language-region                # language of original
+documentation-home: https://wiki.opensourceecology.de/Zn/O-Brennstoffzelle
 
-documentation-is-translation:  
-  title: value                           # text | Title of the original
-  manifest: value                        # URL - Absolute path | OKH manifest location
-  web: value                             # URL - Absolute path | web presence location
-  lang: language-region                # language of original
+#manifest-is-translation:  
+#  title: value                           # text | Title of the original
+#  manifest: value                        # URL - Absolute path | OKH manifest location
+#  web: value                             # URL - Absolute path | web presence location
+#  lang: language-region                # language of original
+
+# documentation-is-translation:  
+#  title: value                           # text | Title of the original
+#  manifest: value                        # URL - Absolute path | OKH manifest location
+#  web: value                             # URL - Absolute path | web presence location
+#  lang: language-region                # language of original
 
 # Properties
 

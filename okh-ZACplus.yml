@@ -10,9 +10,9 @@
 
 # Manifest metadata
 
-date-created: 15.11.2019                      # YYYY-MM-DD
+date-created: 2019-11-15            # YYYY-MM-DD
 
-date-updated: 15.11.2019                      # YYYY-MM-DD
+date-updated: 2020-02-14    
 
 manifest-author:
   name: Oliver Schlüter                            # required | text

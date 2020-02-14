@@ -57,17 +57,27 @@ health-safety-notice: |                    # paragraph
   value
 
 contact:
-  name: Oliver Schlüter                            # required | text
-  affiliation: OpenSourceEcology Germany e.V.                     # text
-  email: case06@opensourceecology.de                           # email address
-  social:
-    - platform: value                    # text
-      user-handle: value                 # text
+  name: Oliver Schlüter
+  affiliation: OpenSourceEcology Germany e.V. 
+  email: case06@opensourceecology.de 
 
-contributors:                              # recommended
-  - name: Achmed, Eckhardt, Isabel, Hans, Thomas, Jens, Victoria und viele mehr                  # text
-    affiliation: OSEG, Revoneer                   # text
-    email: value                         # email address
+contributors:
+  - name: Oliver Schlüter
+    affiliation: OpenSourceEcology Germany e.V. 
+  - name: Achmed 
+    affiliation: OSEG, Revoneer
+  - name: Eckhardt
+    affiliation: OSEG, Revoneer
+  - name: Isabel
+    affiliation: OSEG, Revoneer
+  - name:  Hans 
+    affiliation: OSEG, Revoneer
+  - name: Thomas
+    affiliation: OSEG, Revoneer
+  - name: Jens
+    affiliation: OSEG, Revoneer
+  - name: Victoria 
+    affiliation: OSEG, Revoneer
 
 image: https://wiki.opensourceecology.de/images/c/c1/ZACplus_Proto1.jpg                             # recommended | absolute or relative path
 

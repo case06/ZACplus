@@ -103,14 +103,14 @@ sub:
 # License 
 
 license:                                   # At least one license is required | The format should be an SPDX identifier. See https://spdx.org/licenses/hardware: [CC-BY-SA 4.0] # recommended | The license under which the hardware is released
-  hardware: [value]                        # recommended | The license under which the documentation is released
-  documentation: [value]                   # recommended | The license under which the documentation is released
-  software: [value]                        # recommended where software is used | The license under which the software is released
+  hardware: [CC-BY-SA 4.0]                        # recommended | The license under which the documentation is released
+  documentation: [CC-BY-SA 4.0]                   # recommended | The license under which the documentation is released
+  software: [CC-BY-SA 4.0]                        # recommended where software is used | The license under which the software is released
 
 licensor: 
-  name: [value]                            # text
-  affiliation: [value]                     # text
-  email: [value]                           # email address
+  name: [Oliver Schlüter]                            # required | text
+  affiliation: [OpenSourceEcology Germany e.V.]                     # text
+  email: [case06@opensourceecology.de]                           # email address
 
 # Documentation
 

@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2020 Oliver Schlüter <case06@opensourceecology.de>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 # ZACplus
 
 [![In cooperation with Open Source Ecology Germany](

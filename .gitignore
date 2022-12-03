@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2021 Oliver Schlüter <case06@opensourceecology.de>
+#
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 # FreeCAD backup files
 *.fcstd1
 *.Fcstd1

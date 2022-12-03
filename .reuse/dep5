@@ -1,0 +1,9 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: ZACPlus
+Upstream-Contact: Oliver Schlüter <case06@opensourceecology.de>
+Source: https://github.com/case06/ZACplus
+
+Files: *.fcstd *.stl *.jpg *.png *.gcode *.pdf *.ods *.odg *.xpm
+Copyright: Oliver Schlüter <case06@opensourceecology.de>
+License: CC-BY-SA-4.0
+

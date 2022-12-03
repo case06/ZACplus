@@ -1,0 +1,27 @@
+# SPDX-FileCopyrightText: 2021 Robin Vobruba <hoijui.quaero@gmail.com>
+#
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+okhv = "OKH-LOSHv1.0"
+repo = "https://github.com/case06/ZACplus"
+name = "ZAC+"
+version = "0.9"
+license = "CC-BY-SA-4.0"
+licensor = "Oliver Schlüter <case06@opensourceecology.de>"
+readme = "README.md"
+image = "https://wiki.opensourceecology.de/images/c/c1/ZACplus_Proto1.jpg"
+image = "https://wiki.opensourceecology.de/images/2/2e/Zac-logo.png"
+documentation-language = "de-DE"
+project-stage = "prototype"
+#??description = "Zink-Luft Brennstoffzelle plus Recycler"
+function = "Seasonal, long-term energy storage"
+#patent-class = "D03D 35/00"
+#tsdc-id = "ASM-MEC"
+#simplified-bom = "sBoM.csv"
+#functional-metadata = "400mm fabric width"
+#production-metadata = [ "3D printed", "wood" ]
+#source = "/Documentation/Assembly_Guide/AssemblyGuide.md"
+#??? = "https://wiki.opensourceecology.de/Zn/O-Brennstoffzelle"
+#??keywords?? = "Zink-Luft Brennstoffzelle ZAFC"
+#??made: true
+#??made-independently: false
